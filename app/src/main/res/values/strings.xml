@@ -1,0 +1,31 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Bat-Family</string>
+    <string name="hero1">Batman</string>
+    <string name="description1">The Dark Knight of Gotham City and Hero in the shadows</string>
+    <string name="hero2">Red Hood</string>
+    <string name="description2">Anti-Hero of Gotham City, The Hero Gotham deserves, uses his guns to exact vengeance</string>
+    <string name="hero3">Nightwing</string>
+    <string name="description3">Hero of Bludhaven, acrobatic combat and uses his Scrimmage sticks</string>
+    <string name="hero4">Batgirl</string>
+    <string name="description4">also known as Oracle, helps save Gotham City alongside Batman with her batons</string>
+    <string name="hero5">Red Robin</string>
+    <string name="description5">alias Tim Drake, the Red Robin of Gotham City, former sidekick of Batman</string>
+    <string name="hero6">Robin</string>
+    <string name="description6">Batman\'s son, Damien Wayne, Current Robin and Batman\'s sidekick, Is a Troublemaker</string>
+</resources>
